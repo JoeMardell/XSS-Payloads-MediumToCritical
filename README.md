@@ -8,4 +8,4 @@ XSS is consistently a top ten contender on bug bounty platforms and a common fin
 Having submitted a number of medium severity XSS vulnerabilities myself. Recently, I was fortunate enough to come across an excellent post by [hakluke](https://github.com/hakluke/weaponised-XSS-payloads) containing a number of payloads allowing you to increase the impact of XSS vulnerabilities. The next time I found an XSS, it was going to be critical!
 
 ### Disclaimer:
-These resources are only for use by security researchers on targets in which they have permission to test. Use at your own risk.
+These resources are only for use by security researchers on targets which they have permission to test. Use at your own risk.
